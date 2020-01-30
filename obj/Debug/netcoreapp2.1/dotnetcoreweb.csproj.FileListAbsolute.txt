@@ -1,0 +1,14 @@
+C:\Work\dotnetcore\dotnetcoreweb\bin\Debug\netcoreapp2.1\dotnetcoreweb.deps.json
+C:\Work\dotnetcore\dotnetcoreweb\bin\Debug\netcoreapp2.1\dotnetcoreweb.runtimeconfig.json
+C:\Work\dotnetcore\dotnetcoreweb\bin\Debug\netcoreapp2.1\dotnetcoreweb.runtimeconfig.dev.json
+C:\Work\dotnetcore\dotnetcoreweb\bin\Debug\netcoreapp2.1\dotnetcoreweb.dll
+C:\Work\dotnetcore\dotnetcoreweb\bin\Debug\netcoreapp2.1\dotnetcoreweb.pdb
+C:\Work\dotnetcore\dotnetcoreweb\obj\Debug\netcoreapp2.1\dotnetcoreweb.csprojAssemblyReference.cache
+C:\Work\dotnetcore\dotnetcoreweb\obj\Debug\netcoreapp2.1\dotnetcoreweb.csproj.CoreCompileInputs.cache
+C:\Work\dotnetcore\dotnetcoreweb\obj\Debug\netcoreapp2.1\dotnetcoreweb.RazorAssemblyInfo.cache
+C:\Work\dotnetcore\dotnetcoreweb\obj\Debug\netcoreapp2.1\dotnetcoreweb.RazorAssemblyInfo.cs
+C:\Work\dotnetcore\dotnetcoreweb\obj\Debug\netcoreapp2.1\dotnetcoreweb.AssemblyInfoInputs.cache
+C:\Work\dotnetcore\dotnetcoreweb\obj\Debug\netcoreapp2.1\dotnetcoreweb.AssemblyInfo.cs
+C:\Work\dotnetcore\dotnetcoreweb\obj\Debug\netcoreapp2.1\dotnetcoreweb.RazorTargetAssemblyInfo.cache
+C:\Work\dotnetcore\dotnetcoreweb\obj\Debug\netcoreapp2.1\dotnetcoreweb.dll
+C:\Work\dotnetcore\dotnetcoreweb\obj\Debug\netcoreapp2.1\dotnetcoreweb.pdb
